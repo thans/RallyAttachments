@@ -2,7 +2,7 @@ Attachment
 =========================
 
 ## Overview
-
+This is a simple Rally Application for uploading attachments to Rally without attaching them to a particular work item.
 
 ## License
 
